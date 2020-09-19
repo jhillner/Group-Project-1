@@ -1,3 +1,6 @@
+project proposal: https://docs.google.com/document/d/11eoavZTTPMZYcqoTUWlJLavqZMRizLxF-9CeZdN2amA/edit
 
-plot ideas: https://docs.google.com/presentation/d/1V2nG_MiZS967JIzs90kGG-sBc_8uJcKfkyhYb9PS3wY/edit?usp=sharing
+Kaggle Zip Census Data: https://www.kaggle.com/census/us-population-by-zip-code
+
+US Census Data: https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-cities-and-towns.html
 
