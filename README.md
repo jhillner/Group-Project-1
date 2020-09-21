@@ -7,3 +7,5 @@ US Census Data: https://www.census.gov/data/tables/time-series/demo/popest/2010s
 Kaggle GeoNuclearPower: https://www.kaggle.com/marchman/geo-nuclear-data?
 
 Coordinates of US Zip Code: https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitude/table/
+
+Nuclear power plants in US : https://en.wikipedia.org/wiki/Nuclear_power_in_the_United_States
