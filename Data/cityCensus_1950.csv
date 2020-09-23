@@ -1,0 +1,101 @@
+,City,State,Population,Location,Latitude,Longitude
+0,New York City,New York,7891957,Northeast,40.7127753,-74.0059728
+1,Chicago,Illinois,3620962,Midwest,41.8781136,-87.6297982
+2,Philadelphia,Pennsylvania,2071605,Northeast,39.9525839,-75.1652215
+3,Los Angeles,California,1970358,West,34.0522342,-118.2436849
+4,Detroit,Michigan,1849568,Midwest,42.331427,-83.0457538
+5,Baltimore,Maryland,949708,South,39.2903848,-76.6121893
+6,Cleveland,Ohio,914808,Midwest,41.49932,-81.6943605
+7,St. Louis,Missouri,856796,Midwest,38.6270025,-90.19940419999999
+8,Washington,District of Columbia,802178,South,38.9071923,-77.0368707
+9,Boston,Massachusetts,801444,Northeast,42.3600825,-71.0588801
+10,San Francisco,California,775357,West,37.7749295,-122.4194155
+11,Pittsburgh,Pennsylvania,676806,Northeast,40.44062479999999,-79.9958864
+12,Milwaukee,Wisconsin,637392,Midwest,43.0389025,-87.9064736
+13,Houston,Texas,596163,South,29.7604267,-95.3698028
+14,Buffalo,New York,580132,Northeast,42.88644679999999,-78.8783689
+15,New Orleans,Louisiana,570445,South,29.95106579999999,-90.0715323
+16,Minneapolis,Minnesota,521718,Midwest,44.977753,-93.2650108
+17,Cincinnati,Ohio,503998,Midwest,39.1031182,-84.5120196
+18,Seattle,Washington,467591,West,47.6062095,-122.3320708
+19,Kansas City,Missouri,456622,Midwest,39.0997265,-94.5785667
+20,Newark,New Jersey,438776,Northeast,40.735657,-74.1723667
+21,Dallas,Texas,434462,South,32.7766642,-96.79698789999999
+22,Indianapolis,Indiana,427173,Midwest,39.768403,-86.158068
+23,Denver,Colorado,415786,West,39.7392358,-104.990251
+24,San Antonio,Texas,408442,South,29.4241219,-98.49362819999999
+25,Memphis,Tennessee,396000,South,35.1495343,-90.0489801
+26,Oakland,California,384575,West,37.8043514,-122.2711639
+27,Columbus,Ohio,375901,Midwest,39.9611755,-82.99879419999999
+28,Portland,Oregon,373628,West,45.5051064,-122.6750261
+29,Louisville,Kentucky,369129,South,38.2526647,-85.7584557
+30,San Diego,California,334387,West,32.715738,-117.1610838
+31,Rochester,New York,332488,Northeast,43.15657789999999,-77.6088465
+32,Atlanta,Georgia,331314,South,33.7489954,-84.3879824
+33,Birmingham,Alabama,326037,South,33.5185892,-86.8103567
+34,Saint Paul,Minnesota,311349,Midwest,44.9537029,-93.0899578
+35,Toledo,Ohio,303616,Midwest,41.6528052,-83.5378674
+36,Jersey City,New Jersey,299017,Northeast,40.7177545,-74.0431435
+37,Fort Worth,Texas,278778,South,32.7554883,-97.3307658
+38,Akron,Ohio,274605,Midwest,41.0814447,-81.51900529999999
+39,Omaha,Nebraska,251117,Midwest,41.2565369,-95.9345034
+40,Long Beach,California,250767,West,33.7700504,-118.1937395
+41,Miami,Florida,249276,South,25.7616798,-80.1917902
+42,Providence,Rhode Island,248674,Northeast,41.8239891,-71.4128343
+43,Dayton,Ohio,243872,Midwest,39.7589478,-84.1916069
+44,Oklahoma City,Oklahoma,243504,South,35.4675602,-97.5164276
+45,Richmond,Virginia,230310,South,37.5407246,-77.4360481
+46,Syracuse,New York,220583,Northeast,43.0481221,-76.14742439999999
+47,Norfolk,Virginia,213513,South,36.8507689,-76.28587259999999
+48,Jacksonville,Florida,204517,South,30.3321838,-81.65565099999999
+49,Worcester,Massachusetts,203486,Northeast,42.2625932,-71.8022934
+50,Tulsa,Oklahoma,182740,South,36.1539816,-95.99277500000001
+51,Salt Lake City,Utah,182121,West,40.7607793,-111.8910474
+52,Des Moines,Iowa,177965,Midwest,41.5868353,-93.6249593
+53,Hartford,Connecticut,177397,Northeast,41.7658043,-72.6733723
+54,Grand Rapids,Michigan,176515,Midwest,42.9633599,-85.6680863
+55,Nashville,Tennessee,174307,South,36.1626638,-86.7816016
+56,Youngstown,Ohio,168330,Midwest,41.0997803,-80.6495194
+57,Wichita,Kansas,168279,Midwest,37.68717609999999,-97.33005299999999
+58,New Haven,Connecticut,164443,Northeast,41.308274,-72.9278835
+59,Flint,Michigan,163143,Midwest,43.0125274,-83.6874562
+60,Springfield,Massachusetts,162399,Northeast,42.1014831,-72.589811
+61,Spokane,Washington,161721,West,47.6587802,-117.4260465
+62,Bridgeport,Connecticut,158709,Northeast,41.1792258,-73.1894384
+63,Yonkers,New York,152798,Northeast,40.9312099,-73.89874689999999
+64,Tacoma,Washington,143673,West,47.2528768,-122.4442906
+65,Paterson,New Jersey,139336,Northeast,40.9167654,-74.17181099999999
+66,Sacramento,California,137572,West,38.5815719,-121.4943996
+67,Arlington,Virginia,135449,South,38.8816208,-77.09098089999999
+68,Albany,New York,134995,Northeast,42.6525793,-73.7562317
+69,Charlotte,North Carolina,134042,South,35.2270869,-80.8431267
+70,Gary,Indiana,133911,Midwest,41.6020403,-87.3371523
+71,Fort Wayne,Indiana,133607,Midwest,41.079273,-85.1393513
+72,Austin,Texas,132459,South,30.267153,-97.7430608
+73,Chattanooga,Tennessee,131041,South,35.0456297,-85.3096801
+74,Erie,Pennsylvania,130803,Northeast,42.12922409999999,-80.085059
+75,El Paso,Texas,130485,South,31.7618778,-106.4850217
+76,Kansas City,Kansas,129553,Midwest,39.11553139999999,-94.62678729999999
+77,Mobile,Alabama,129009,South,30.6953657,-88.0398912
+78,Evansville,Indiana,128636,Midwest,37.9715592,-87.5710898
+79,Trenton,New Jersey,128009,Northeast,40.2205824,-74.759717
+80,Shreveport,Louisiana,127206,South,32.5251516,-93.7501789
+81,Baton Rouge,Louisiana,125629,South,30.4514677,-91.18714659999999
+82,Scranton,Pennsylvania,125536,Northeast,41.408969,-75.66241219999999
+83,Knoxville,Tennessee,124769,South,35.9606384,-83.9207392
+84,Tampa,Florida,124681,South,27.950575,-82.4571776
+85,Camden,New Jersey,124555,Northeast,39.9259463,-75.1196199
+86,Cambridge,Massachusetts,120740,Northeast,42.3736158,-71.10973349999999
+87,Savannah,Georgia,119638,South,32.0808989,-81.091203
+88,Canton,Ohio,116912,Midwest,40.79894729999999,-81.378447
+89,South Bend,Indiana,115911,Midwest,41.6763545,-86.25198979999999
+90,Berkeley,California,113805,West,37.8715226,-122.273042
+91,Elizabeth,New Jersey,112817,Northeast,40.6639916,-74.2107006
+92,Fall River,Massachusetts,111963,Northeast,41.7014912,-71.1550451
+93,Peoria,Illinois,111856,Midwest,40.6936488,-89.5889864
+94,Wilmington,Delaware,110356,South,39.744655,-75.5483909
+95,Reading,Pennsylvania,109320,Northeast,40.3356483,-75.9268747
+96,New Bedford,Massachusetts,109189,Northeast,41.6362152,-70.93420499999999
+97,Corpus Christi,Texas,108287,South,27.8005828,-97.39638099999999
+98,Phoenix,Arizona,106818,West,33.4483771,-112.0740373
+99,Allentown,Pennsylvania,106756,Northeast,40.6022939,-75.4714098
