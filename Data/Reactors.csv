@@ -1,58 +1,58 @@
 Name,Number of units,City,State,Lat,Long,Open,License Expires
-Arkansas Nuclear One,2,London,AR,35.330898,-93.247162,1974,2034
-Beaver Valley Power Station,2,Shippingport,PA,40.629372,-80.421249,1976,2036
-Braidwood Station,2,Braceville,IL,41.226929,-88.264282,1987,2046
 Browns Ferry Nuclear Plant,3,Athens,AL,34.81279,-86.961891,1973,2033
-Brunswick Steam Electric Plant,2,Southport,NC,33.921562,-78.020271,1976,2036
-Byron Station,2,Byron,IL,42.125408,-89.255959,1985,2044
-Callaway Plant,1,Fulton,MO,38.844391,-91.944656,1984,2044
-Calvert Cliffs Nuclear Power Plant,2,Lusby,MD,38.351631,-76.436172,1974,2034
-Catawba Nuclear Station 1,2,York,SC,34.99411,-81.241982,1985,2043
-Clinton Power Station,1,Clinton,IL,40.14806,-88.963928,1987,2027
-Columbia Generating Station,1,Richland,WA,46.280418,-119.2752,1984,2043
-Comanche Peak,2,Glen Rose,TX,32.234669,-97.755501,1990,2030
-Cooper,1,Brownville,NE,40.398571,-95.660118,1974,2034
-D.C. Cook ,2,Bridgman,MI,41.94355,-86.555069,1974,2034
-Davis-Besse,1,Oak Harbor,OH,41.486938,-83.009552,1977,2037
-Diablo Canyon,2,Avila Beach,CA,35.182129,-120.732712,1984,2024
-Dresden,2,Morris,IL,41.357254,-88.421181,1991,2029
-Duane Arnold,1,Palo,IA,42.065239,-91.795807,1974,2034
 Farley,2,Columbia,AL,33.543098,-86.879112,1977,2037
-Fermi,1,Toledo,OH,41.652805,-83.537865,1985,2045
+Arkansas Nuclear One,2,London,AR,35.330898,-93.247162,1974,2034
+Palo Verde,3,Wintersburg,AZ,33.42118,-112.86774,1985,2045
+Diablo Canyon,2,Avila Beach,CA,35.182129,-120.732712,1984,2024
+Millstone,2,Waterford,CT,41.35424,-72.164818,1975,2035
+Saint Lucie,2,Jensen Beach,FL,27.244471,-80.225273,1976,2036
+Turkey Point,2,Homestead,FL,25.468721,-80.477554,1972,2052
+Hatch,2,Baxley,GA,31.78018,-82.346939,1974,2034
+Vogtle,2,Waynesboro,GA,33.090038,-82.015846,1987,2047
+Duane Arnold,1,Palo,IA,42.065239,-91.795807,1974,2034
+Braidwood Station,2,Braceville,IL,41.226929,-88.264282,1987,2046
+Byron Station,2,Byron,IL,42.125408,-89.255959,1985,2044
+Clinton Power Station,1,Clinton,IL,40.14806,-88.963928,1987,2027
+Dresden,2,Morris,IL,41.357254,-88.421181,1991,2029
+La Salle,2,Marseilles,IL,41.330502,-88.708298,2016,2042
+Quad Cities,2,Cordova,IL,41.67783,-90.316078,1972,2032
+Wolf Creek,1,Burlington,KS,38.194569,-95.744698,1985,2045
+River Bend,1,St. Francisville,LA,30.786449,-91.381531,1985,2045
+Waterford,1,Killona,LA,30.004869,-90.48201,1985,2044
+Calvert Cliffs Nuclear Power Plant,2,Lusby,MD,38.351631,-76.436172,1974,2034
+D.C. Cook,2,Bridgman,MI,41.94355,-86.555069,1974,2034
+Palisades,1,Covert,MI,42.294022,-86.262512,1991,2031
+Monticello,1,Monticello,MN,45.304661,-93.794907,1970,2030
+Prairie Island,2,Welch,MN,44.568352,-92.738426,1974,2033
+Callaway Plant,1,Fulton,MO,38.844391,-91.944656,1984,2044
+Grand Gulf,1,Port Gibson,MS,31.960449,-90.981918,1984,2024
+Brunswick Steam Electric Plant,2,Southport,NC,33.921562,-78.020271,1976,2036
+Harris,1,New Hill,NC,35.680981,-78.935623,1986,2046
+McGuire,2,Huntersville,NC,35.410561,-80.848991,1981,2041
+Cooper,1,Brownville,NE,40.398571,-95.660118,1974,2034
+Seabrook,1,Seabrook,NH,42.889351,-70.871658,1990,2050
+Hope Creek ,1,Hancocks Bridge,NJ,39.502499,-75.458504,1986,2046
+Salem,2,Hancocks Bridge,NJ,39.502499,-75.458504,1976,2036
 FitzPatrick,1,Scriba,NY,43.465389,-76.430611,1974,2034
 Ginna,1,Ontario,NY,43.220909,-77.28334,1969,2029
-Grand Gulf,1,Port Gibson,MS,31.960449,-90.981918,1984,2024
-Harris,1,New Hill,NC,35.680981,-78.935623,1986,2046
-Hatch ,2,Baxley,GA,31.78018,-82.346939,1974,2034
-Hope Creek ,1,Hancocks Bridge,NJ,39.502499,-75.458504,1986,2046
-Indian Point ,2,Buchanan,NY,41.261238,-73.939171,1973,2024
-La Salle ,2,Marseilles,IL,41.330502,-88.708298,2016,2042
-Limerick ,2,Limerick,PA,40.23196,-75.524689,1985,2024
-McGuire ,2,Huntersville,NC,35.410561,-80.848991,1981,2041
-Millstone ,2,Waterford,CT,41.35424,-72.164818,1975,2035
-Monticello,1,Monticello,MN,45.304661,-93.794907,1970,2030
-Nine Mile Point ,2,Scriba,NY,43.465389,-76.430611,1974,2029
-North Anna ,2,Louisa,VA,38.025139,-78.004166,1978,2038
-Oconee ,3,Seneca,SC,34.685219,-82.949829,1973,2033
-Palisades,1,Covert,MI,42.294022,-86.262512,1991,2031
-Palo Verde ,3,Wintersburg,AZ,33.42118,-112.86774,1985,2045
-Peach Bottom ,2,Delta,PA,39.726582,-76.32634,1973,2053
-Perry ,1,Perry,OH,41.758072,-81.137939,1986,2026
-Point Beach ,2,Two Rivers,WI,44.153648,-87.568367,1970,2030
-Prairie Island ,2,Welch,MN,44.568352,-92.738426,1974,2033
-Quad Cities ,2,Cordova,IL,41.67783,-90.316078,1972,2032
-River Bend ,1,St. Francisville,LA,30.786449,-91.381531,1985,2045
-Robinson ,1,Hartsville,SC,34.36985,-80.084534,1970,2030
-Saint Lucie ,2,Jensen Beach,FL,27.244471,-80.225273,1976,2036
-Salem ,2,Hancocks Bridge,NJ,39.502499,-75.458504,1976,2036
-Seabrook ,1,Seabrook,NH,42.889351,-70.871658,1990,2050
-Sequoyah ,2,Soddy-Daisy,TN,35.235691,-85.190453,1980,2040
-South Texas ,2,Bay City,TX,28.98189,-95.970001,1988,2047
+Indian Point,2,Buchanan,NY,41.261238,-73.939171,1973,2024
+Nine Mile Point,2,Scriba,NY,43.465389,-76.430611,1974,2029
+Davis-Besse,1,Oak Harbor,OH,41.486938,-83.009552,1977,2037
+Fermi,1,Toledo,OH,41.6528,-83.5379,1985,2045
+Perry,1,Perry,OH,41.758072,-81.137939,1986,2026
+Beaver Valley Power Station,2,Shippingport,PA,40.629372,-80.421249,1976,2036
+Limerick,2,Limerick,PA,40.23196,-75.524689,1985,2024
+Peach Bottom,2,Delta,PA,39.726582,-76.32634,1973,2053
+Susquehanna,2,Salem Township,PA,41.3633,-80.33528,1982,2042
+Catawba Nuclear Station,2,York,SC,34.99411,-81.241982,1985,2043
+Oconee,3,Seneca,SC,34.685219,-82.949829,1973,2033
+Robinson,1,Hartsville,SC,34.36985,-80.084534,1970,2030
 Summer,1,Jenkensville,SC,34.31023,-81.28808,1982,2042
-Surry ,2,Surry,VA,37.138279,-76.834991,1972,2032
-Susquehanna ,2,Salem Township,PA,41.3633,-80.33528,1982,2042
-Turkey Point ,2,Homestead,FL,25.468721,-80.477554,1972,2052
-Vogtle ,2,Waynesboro,GA,33.090038,-82.015846,1987,2047
-Waterford ,1,Killona,LA,30.004869,-90.48201,1985,2044
-Watts Bar ,2,Spring City,TN,35.691879,-84.860107,1996,2035
-Wolf Creek ,1,Burlington,KS,38.194569,-95.744698,1985,2045
+Sequoyah,2,Soddy-Daisy,TN,35.235691,-85.190453,1980,2040
+Watts Bar,2,Spring City,TN,35.691879,-84.860107,1996,2035
+Comanche Peak,2,Glen Rose,TX,32.234669,-97.755501,1990,2030
+South Texas,2,Bay City,TX,28.98189,-95.970001,1988,2047
+North Anna,2,Louisa,VA,38.025139,-78.004166,1978,2038
+Surry,2,Surry,VA,37.138279,-76.834991,1972,2032
+Columbia Generating Station,1,Richland,WA,46.280418,-119.2752,1984,2043
+Point Beach,2,Two Rivers,WI,44.153648,-87.568367,1970,2030
