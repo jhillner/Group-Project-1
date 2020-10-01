@@ -1,9 +1,9 @@
 # Team Numpy
 #### The objective of Team Numpy's project was to evaluate productivity of nuclear-generated power in the US. We also aimed to determine how the population densities around US nuclear reactors has evolved over the past 50 years. 
 
-##### Our final project proposal can be  <a href="https://docs.google.com/document/d/11eoavZTTPMZYcqoTUWlJLavqZMRizLxF-9CeZdN2amA/edit">here.</a>
+##### Our final project proposal can found be  <a href="https://docs.google.com/document/d/11eoavZTTPMZYcqoTUWlJLavqZMRizLxF-9CeZdN2amA/edit">here.</a>
 
-##### Our final project proposal can be  <a href="https://docs.google.com/document/d/11eoavZTTPMZYcqoTUWlJLavqZMRizLxF-9CeZdN2amA/edit">here.</a>
+##### Our final project slides can found be  <a href="https://docs.google.com/document/d/11eoavZTTPMZYcqoTUWlJLavqZMRizLxF-9CeZdN2amA/edit">here.</a>
 
 #### We found the following webistes useful for gathering data:
 <ul>
