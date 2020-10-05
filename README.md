@@ -3,7 +3,7 @@
 
 ##### Our final project proposal can found be  <a href="https://docs.google.com/document/d/11eoavZTTPMZYcqoTUWlJLavqZMRizLxF-9CeZdN2amA/edit">here.</a>
 
-##### Our final project slides can found be  <a href="https://docs.google.com/document/d/11eoavZTTPMZYcqoTUWlJLavqZMRizLxF-9CeZdN2amA/edit">here.</a>
+##### Our final project slides can found be  <a href="https://docs.google.com/presentation/d/1D4UDGq6WI7Nqu6KepLMrIiF2H7tKGteYR_cWN_Di18A/edit#slide=id.p">here.</a>
 
 #### We found the following webistes useful for gathering data:
 <ul>
